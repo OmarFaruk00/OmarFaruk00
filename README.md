@@ -7,13 +7,6 @@
   <img src="https://komarev.com/ghpvc/?username=omarfaruk00&label=Profile%20views&color=0e75b6&style=flat" alt="omarfaruk00" /> 
 </p>
 
-<!-- Profile Picture and About Section -->
-<div align="center">
-  <img src="https://github.com/OmarFaruk00/OmarFaruk00/blob/main/profile-picture.png" alt="Omar Faruk" width="200" height="200" style="border-radius: 50%;"/>
-</div>
-
-<br/>
-
 <!-- About Me Section -->
 ## 👨‍💻 About Me
 
