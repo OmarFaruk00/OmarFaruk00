@@ -1,8 +1,3 @@
-<!-- Banner Image -->
-<div align="center">
-  <img src="https://github.com/OmarFaruk00/OmarFaruk00/blob/main/banner.png" alt="Banner" width="100%"/>
-</div>
-
 <!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Omar Faruk</h1>
 <h3 align="center">Building modern web apps with HTML, CSS, JS, React & Node.js</h3>
