@@ -100,5 +100,5 @@ I'm a passionate web developer from **Dhaka, Bangladesh**, specializing in build
 ---
 
 <div align="center">
-  <img src="https://github.com/OmarFaruk00/OmarFaruk00/blob/main/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/OmarFaruk00/OmarFaruk00/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
