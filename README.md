@@ -14,7 +14,7 @@
 
 <!-- Profile Picture and About Section -->
 <div align="center">
-  <img src="https://github.com/OmarFaruk00/OmarFaruk00/blob/main/profile-picture.jpg" alt="Omar Faruk" width="200" height="200" style="border-radius: 50%;"/>
+  <img src="https://github.com/OmarFaruk00/OmarFaruk00/blob/main/profile-picture.png" alt="Omar Faruk" width="200" height="200" style="border-radius: 50%;"/>
 </div>
 
 <br/>
